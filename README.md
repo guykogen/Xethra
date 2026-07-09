@@ -1,6 +1,6 @@
-# iZop AI — 100-Video Seedance Content Engine
+# Xethra — iZop 100-Video Seedance Content Engine
 
-Batch-produced AI avatar video campaign for iZop brand + Guy Kogen personal channels.
+Batch-produced AI avatar video campaign for iZop brand + Guy Kogen personal channels. Uses the [Xethra studio](https://www.xethra.com/studio) API for Seedance 2.0 generation.
 
 ## Quick Start
 
