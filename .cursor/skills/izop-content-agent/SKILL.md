@@ -11,6 +11,8 @@ description: >-
 
 Xethra studio at https://www.xethra.com/studio is the production hub for iZop AI content.
 
+**Repo layout:** studio app in `studio/`, campaign automation at repo root (`scripts/`, `izop-100-video-briefs.csv`).
+
 ## Stack
 
 | Capability | Provider | API |

@@ -1,6 +1,7 @@
 .DS_Store
 .env
 .env.local
+.env.vercel
 __pycache__/
 *.py[cod]
 .Python
@@ -19,3 +20,13 @@ reference-test.png
 !selected/.gitkeep
 !final/.gitkeep
 !rejected/.gitkeep
+
+# Studio (Next.js)
+studio/node_modules/
+studio/.next/
+studio/out/
+studio/.vercel
+studio/*.log
+studio/tsconfig.tsbuildinfo
+studio/data/
+studio/docs/business/

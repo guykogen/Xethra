@@ -1,0 +1,11 @@
+{
+  "name": "xethra",
+  "private": true,
+  "description": "Xethra monorepo — AI video studio + iZop content engine",
+  "scripts": {
+    "studio:dev": "npm run dev --prefix studio",
+    "studio:build": "npm run build --prefix studio",
+    "studio:start": "npm run start --prefix studio",
+    "studio:lint": "npm run lint --prefix studio"
+  }
+}
