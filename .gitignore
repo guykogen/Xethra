@@ -1,0 +1,21 @@
+.DS_Store
+.env
+.env.local
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+
+# Generated media (large binaries)
+raw/**/*.mp4
+selected/**/*.mp4
+final/**/*.mp4
+rejected/**/*.mp4
+reference-test.png
+
+# Keep folder structure
+!raw/.gitkeep
+!selected/.gitkeep
+!final/.gitkeep
+!rejected/.gitkeep

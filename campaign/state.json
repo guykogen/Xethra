@@ -1,0 +1,23 @@
+{
+  "updated_at": "2026-07-09T11:09:59.147149+00:00",
+  "videos": {
+    "1": {
+      "video_id": 1,
+      "hook": "I'm on a volcano. iZop is handling my socials.",
+      "selected_variant": null,
+      "variants": []
+    },
+    "2": {
+      "video_id": 2,
+      "hook": "Posting from space while I float.",
+      "selected_variant": null,
+      "variants": []
+    },
+    "3": {
+      "video_id": 3,
+      "hook": "Deep sea. My posts still surface.",
+      "selected_variant": null,
+      "variants": []
+    }
+  }
+}
